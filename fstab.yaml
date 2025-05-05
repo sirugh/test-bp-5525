@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/sirugh/test-bp-5525/
+    type: markup
+
+folders:
+  /products/: /products/default
